@@ -37,9 +37,9 @@ My research interest includes whole body control, mobile manipulation and imitat
 - *202x.xx* todo 
 
 # 📖 Educations
-- *2021.09 - now*, Mechanical Engineering, School of Mechanical Engineering &amp Automation, Beihang Univeristy. 
+- *2021.09 - now*    , Mechanical Engineering, School of Mechanical Engineering & Automation, Beihang Univeristy. 
 - *2018.09 - 2021.06*, Mechanical Engineering, College of Mechanical and Materials Engineering, North China University of Technology.
-- *2014.09 - 2018.06*, Mechanical Design &amp Manufacturing and Automation, School of Mechanical &amp Automotive Engineering, Liaocheng Univeristy. 
+- *2014.09 - 2018.06*, Mechanical Design & Manufacturing and Automation, School of Mechanical & Automotive Engineering, Liaocheng Univeristy. 
 
 # 💻 Internships
 - *2021.03 - 2021.09*, Robotics Algorithm Engineer, AUBO (BEIJING) ROBOTICS TECHNOLOGY CO., LTD, China.
