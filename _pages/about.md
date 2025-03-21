@@ -31,7 +31,7 @@ My research interest includes whole body control, mobile manipulation and imitat
 
 - 有好文再添加吧，要不太丢人了. 具体格式[参考](https://github.com/RayeRen/acad-homepage.github.io/blob/main/_pages/about.md).
 
-- ``JCISE 2025`` [Dynamic Tip-Over Avoidance Method for Mobile Manipulators Based on the Extended Zero-Moment Point Algorithm for Human–Robot Collaboration](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4067523/1211021/DYNAMIC-TIP-OVER-AVOIDANCE-METHOD-FOR-MOBILE?redirectedFrom=fulltext), **JCISE 2024**, Yong Tao, **Haitao Liu**, Yian Song, Changyi Deng, Baicun Wang, Pai Zheng.
+- ``JCISE 2025`` [Dynamic Tip-Over Avoidance Method for Mobile Manipulators Based on the Extended Zero-Moment Point Algorithm for Human–Robot Collaboration](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4067523/1211021/DYNAMIC-TIP-OVER-AVOIDANCE-METHOD-FOR-MOBILE?redirectedFrom=fulltext), Yong Tao, **Haitao Liu**, Yian Song, Changyi Deng, Baicun Wang, Pai Zheng.
 
 # 🎖 Honors and Awards
 - *202x.xx* todo 
