@@ -213,6 +213,15 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
+      <!-- 利用FontAwesome添加的bilibili的图标 2025.3.22-->
+      {% if author.bilibili %}
+        <li>
+          <a href="{{ author.bilibili }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-bilibili" aria-hidden="true"></i> Bilibili
+          </a>
+        </li>
+      {% endif %}
+        
     </div>
   </div>
 </div>
