@@ -117,6 +117,12 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      
+      <!-- 利用FontAwesome添加的bilibili的图标 2025.3.22-->
+      {% if author.bilibili %}
+        <li><a href="{{ author.bilibili }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-bilibili" aria-hidden="true"></i> Bilibili </a></li>
+      {% endif %}
+      
 {% endif %}
     </ul>
       <div class="author__urls_sm">
@@ -214,14 +220,7 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
         
-      <!-- 利用FontAwesome添加的bilibili的图标 2025.3.22-->
-      {% if author.bilibili %}
-        <li>
-          <a href="{{ author.bilibili }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-bilibili" aria-hidden="true"></i> Bilibili
-          </a>
-        </li>
-      {% endif %}
+
         
     </div>
   </div>
